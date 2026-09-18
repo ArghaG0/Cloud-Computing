@@ -1,4 +1,4 @@
-# Lab Experiment 3: Creation of a Simple Network Topology Using Open-Source Network Virtualization Tools
+# Week 3: Creation of a Simple Network Topology Using Open-Source Network Virtualization Tools
 
 ## Objective
 To create and configure simple network topologies using an open-source network virtualization tool (Mininet) and verify communication between the virtual network nodes.
@@ -9,21 +9,21 @@ To create and configure simple network topologies using an open-source network v
 * **Tool:** Mininet
 
 ## Part 1: Installation and Verification
-First, we updated the package index and installed Mininet via the Ubuntu terminal:
+First, i updated the package index and installed Mininet via the Ubuntu terminal:
 ```bash
 sudo apt-get update
 sudo apt-get install mininet
 ```
-We then verified the installation and ran a base communication test:
+then verified the installation and ran a base communication test:
 ```bash
-mn --version
+sudo mn --version
 sudo mn --test pingall
 ```
 
 ---
 
 ## Part 2: Network Topology Configurations
-As per the assignment requirements, we created five different types of topologies. For the configurable topologies, we tested two distinct node configurations, checked the links, verified connectivity using `pingall`, and safely stopped the network after each test using `sudo mn -c`.
+As per the assignment requirements, i created five different types of topologies. For the configurable topologies, i tested two distinct node configurations, checked the links, verified connectivity using `pingall`, and safely stopped the network after each test using `sudo mn -c`.
 
 ### 1. Minimal Topology
 The default configuration consisting of 1 switch and 2 hosts.
