@@ -1,4 +1,4 @@
-# Week 1: Ubuntu Virtual Machine Setup & Troubleshooting Guide
+# Lab 1: Ubuntu Virtual Machine Setup & Troubleshooting Guide
 
 ## 1. Virtual Machine Configuration
 - **Hypervisor:** Oracle VirtualBox

@@ -1,4 +1,4 @@
-# Week 4: Software-Defined Networking (SDN) - Mininet, Open vSwitch & Ryu Controller
+# Lab 4: Software-Defined Networking (SDN) - Mininet, Open vSwitch & Ryu Controller
 
 This repository documents the setup, troubleshooting, and execution of a Software-Defined Networking (SDN) environment on Ubuntu Linux using **Mininet**, **Open vSwitch (OVS)**, and the **Ryu SDN Controller** (OpenFlow 1.3). 
 

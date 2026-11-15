@@ -1,4 +1,4 @@
-# Week 2: Client-Server Communication Between Two Virtual Machines
+# Lab 2: Client-Server Communication Between Two Virtual Machines
 
 ## Phase 1: Virtual Machine & Network Configuration
 * Configured two Ubuntu Virtual Machines in VirtualBox.

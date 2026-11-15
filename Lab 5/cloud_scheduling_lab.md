@@ -1,4 +1,4 @@
-# Week 5 — Cloud Scheduling
+# Lab 5 — Cloud Scheduling
 
 A structured step-by-step setup, configuration, and execution guide for simulating Virtual Machine (VM) and Cloudlet scheduling policies using **CloudSim Plus** on Ubuntu.
 

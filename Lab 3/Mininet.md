@@ -1,4 +1,4 @@
-# Week 3: Creation of a Simple Network Topology Using Open-Source Network Virtualization Tools
+# Lab 3: Creation of a Simple Network Topology Using Open-Source Network Virtualization Tools
 
 ## Objective
 To create and configure simple network topologies using an open-source network virtualization tool (Mininet) and verify communication between the virtual network nodes.
